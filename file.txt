@@ -1,0 +1,4 @@
+(1) Name--> Yusuf Shakiru  age--> 40  score--> 95.0
+(2) Name--> Yusuf Ayomide  age--> 35  score--> 94.0
+(3) Name--> Yusuf Oluwaseun  age--> 30  score--> 90.0
+(4) Name--> Yusuf Oluwatobi  age--> 25  score--> 90.0
