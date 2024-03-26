@@ -1,4 +1,4 @@
-(1) Name--> Yusuf Shakiru  age--> 40  score--> 95.0
-(2) Name--> Yusuf Ayomide  age--> 35  score--> 94.0
-(3) Name--> Yusuf Oluwaseun  age--> 30  score--> 90.0
-(4) Name--> Yusuf Oluwatobi  age--> 25  score--> 90.0
+Name--> Yusuf Shakiru  course--> Computer Engineering  level-->  200 Level
+Name--> Yusuf Ayomide  course--> Mass Communication  level-->  ND 2
+Name--> Yusuf Oluwaseun  course--> Computer Science  level--> 100 Level
+Name--> Yusuf Oluwatobi  course--> Mechanical Engineering  level--> 100 Level
