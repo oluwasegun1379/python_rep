@@ -12,7 +12,7 @@ class Family:
 
         
 class Children(Family):
-    def __init__(self, father, mother, num_children, child_names=None):
+    def __init__(self, father, mother, num_children=None, child_names=None):
         super().__init__(father, mother)
         self.num_children = num_children
         self.child_names = []
@@ -45,7 +45,7 @@ class Children(Family):
             i += 1
 
 
-children = Children("John Doe", "Kate Doe", 4)
+children = Children("John Doe", "Kate Doe", 0)
 print(children.greet())
 print(children.how_many())
 

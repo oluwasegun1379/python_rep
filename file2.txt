@@ -1,6 +1,2 @@
 Father's name: John Doe
 Mother's name: Kate Doe
-1 child: s 
-2 child: s 
-3 child: s 
-4 child: r 
